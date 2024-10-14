@@ -1,0 +1,4 @@
+jwt:
+  secret-key: b6VrNGOThoxYSOLKhDG8NzcTzZCGys7s6I6kmq07AlEZpsssI8cTovZkM+xouk6DTXpxoaRh+PTDAnQguI/l2w==
+  duration-time: 3600 #second
+  refreshable-time: 14400 #second
